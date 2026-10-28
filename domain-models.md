@@ -2,6 +2,8 @@
 description: Domain model design rules
 globs: "**/Domain/**/*.cs"
 alwaysApply: false
+paths:
+  - "**/Domain/**/*.cs"
 ---
 
 # Domain Models

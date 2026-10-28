@@ -2,6 +2,8 @@
 description: Be intentional about adding dependencies
 globs: "{package.json,requirements.txt,pyproject.toml,go.mod,*.csproj,Cargo.toml,Gemfile}"
 alwaysApply: false
+paths:
+  - "**/{package.json,requirements.txt,pyproject.toml,go.mod,*.csproj,Cargo.toml,Gemfile}"
 ---
 
 # Dependency Management

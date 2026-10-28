@@ -2,6 +2,8 @@
 description: Component structure and naming conventions
 globs: "**/*.{tsx,jsx}"
 alwaysApply: false
+paths:
+  - "**/*.{tsx,jsx}"
 ---
 
 # Component Conventions

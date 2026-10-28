@@ -2,6 +2,8 @@
 description: EF Core entity conventions
 globs: "**/Persistence/**/*.cs"
 alwaysApply: false
+paths:
+  - "**/Persistence/**/*.cs"
 ---
 
 # Persistence Entities

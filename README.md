@@ -1,3 +1,8 @@
+---
+paths:
+  - ".claude/rules/**"
+---
+
 # claude-rules
 
 Magnus Pladsen kit: personal global Claude Code rules, checked out at `~/.claude/rules/` as a
@@ -60,8 +65,6 @@ Update later with `git -C ~/.claude/rules pull`. Rules load at session start.
 |------|---------|
 | `github` | `gh` CLI conventions |
 | `azure-devops` | `az` CLI conventions |
-| `bitbucket` | Bitbucket PR flow without a CLI |
-| `jira` | Jira via the Atlassian MCP server |
 
 ## React / TypeScript
 

@@ -2,6 +2,8 @@
 description: i18n rules for user-facing text
 globs: "**/*.{tsx,jsx,ts}"
 alwaysApply: false
+paths:
+  - "**/*.{tsx,jsx,ts}"
 ---
 
 # Internationalization

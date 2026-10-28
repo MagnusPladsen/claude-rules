@@ -2,6 +2,8 @@
 description: Error handling with Result pattern
 globs: "**/*.cs"
 alwaysApply: false
+paths:
+  - "**/*.cs"
 ---
 
 # Error Handling (Backend)

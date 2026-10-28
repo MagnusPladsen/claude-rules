@@ -2,6 +2,8 @@
 description: CQRS pattern with MediatR
 globs: "**/*.cs"
 alwaysApply: false
+paths:
+  - "**/*.cs"
 ---
 
 # CQRS with MediatR

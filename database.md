@@ -2,6 +2,8 @@
 description: Database conventions — naming, migrations, indexes, safety
 globs: "**/*.{cs,sql}"
 alwaysApply: false
+paths:
+  - "**/*.{cs,sql}"
 ---
 
 # Database

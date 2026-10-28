@@ -2,6 +2,8 @@
 description: TypeScript conventions for React/RN/Next.js projects
 globs: "**/*.{ts,tsx}"
 alwaysApply: false
+paths:
+  - "**/*.{ts,tsx}"
 ---
 
 # TypeScript Conventions

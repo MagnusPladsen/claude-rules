@@ -2,6 +2,8 @@
 description: Testing standards and best practices
 globs: "**/*.{test,spec}.{ts,tsx,js,jsx,cs,py,go}"
 alwaysApply: false
+paths:
+  - "**/*.{test,spec}.{ts,tsx,js,jsx,cs,py,go}"
 ---
 
 # Testing Conventions

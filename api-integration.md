@@ -2,6 +2,8 @@
 description: API integration patterns
 globs: "**/*.{ts,tsx}"
 alwaysApply: false
+paths:
+  - "**/*.{ts,tsx}"
 ---
 
 # API Integration

@@ -2,6 +2,8 @@
 description: Accessibility standards for interactive UI
 globs: "**/*.{tsx,jsx}"
 alwaysApply: false
+paths:
+  - "**/*.{tsx,jsx}"
 ---
 
 # Accessibility

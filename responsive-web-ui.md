@@ -2,6 +2,8 @@
 description: Responsive layout strategy for cross-platform apps
 globs: "**/*.{tsx,jsx}"
 alwaysApply: false
+paths:
+  - "**/*.{tsx,jsx}"
 ---
 
 # Responsive Web UI

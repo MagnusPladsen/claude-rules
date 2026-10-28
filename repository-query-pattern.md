@@ -2,6 +2,8 @@
 description: Repository (write) vs query (read) split
 globs: "**/*.cs"
 alwaysApply: false
+paths:
+  - "**/*.cs"
 ---
 
 # Repository & Query Pattern

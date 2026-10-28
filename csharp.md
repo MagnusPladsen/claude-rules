@@ -2,6 +2,8 @@
 description: C# coding style and conventions
 globs: "**/*.cs"
 alwaysApply: false
+paths:
+  - "**/*.cs"
 ---
 
 # C# Conventions

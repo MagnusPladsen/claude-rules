@@ -2,6 +2,8 @@
 description: Clean architecture layer boundaries
 globs: "**/*.cs"
 alwaysApply: false
+paths:
+  - "**/*.cs"
 ---
 
 # Clean Architecture

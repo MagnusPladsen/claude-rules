@@ -2,6 +2,8 @@
 description: Visual consistency — spacing, typography, colors, radii, icons
 globs: "**/*.{tsx,jsx,vue,svelte,css,scss,html}"
 alwaysApply: false
+paths:
+  - "**/*.{tsx,jsx,vue,svelte,css,scss,html}"
 ---
 
 # Design Consistency

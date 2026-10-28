@@ -2,6 +2,8 @@
 description: No hardcoded hex/rgb colors in components
 globs: "**/*.{tsx,jsx}"
 alwaysApply: false
+paths:
+  - "**/*.{tsx,jsx}"
 ---
 
 # No Hardcoded Colors
